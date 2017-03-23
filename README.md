@@ -2,6 +2,7 @@
 
 This repository contains CAM Jobs, to generate gerbers and DRC files for [dirtypcbs.com](http://dirtypcbs.com/) to use with [Eagle](http://www.cadsoft.de/). The 2 layer files are directly from dirtypcbs "About" site. The files for 4 layers is derived from the 2 layer ones.
 
+To finish the process please follow the [SparkFun gerber generation guide](https://learn.sparkfun.com/tutorials/using-eagle-board-layout/generating-gerbers) 
 
 ## files
 
